@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 hii
-=======
+
 hello
->>>>>>> fa28fb8df87f8411fe657e4c6390f75517caba33
+
